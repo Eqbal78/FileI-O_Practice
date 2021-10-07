@@ -4,3 +4,6 @@ change world through coding
 
  How Are you..!
  How Are you..!
+Hi this is a newly line appended in file
+
+Hi this is a newly line appended in file

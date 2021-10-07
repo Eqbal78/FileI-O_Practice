@@ -25,6 +25,12 @@ namespace File_IO_Practice
 
             Console.WriteLine("\n++++++++++++++++++++ Deleting File ++++++++++++++++++++");
             FileReadAndWrite.DeleteFile(@"C:\Users\HP\Desktop\DotNet projects\File_IO_Practice\File_IO_Practice\PracticeCopy.txt");
+
+            Console.WriteLine("\n++++++++++++++++++ Stream Read File ++++++++++++++++++++++++");
+            StreamReadAndWrite.StreamReader();
+
+            Console.WriteLine("\n++++++++++++++++++ Stream Write File ++++++++++++++++++++++++");
+            StreamReadAndWrite.StreamWrite();
         }
 
     }
